@@ -1,10 +1,10 @@
-# Title / Repository Name
+# MORNZTAR
 
-## About / Synopsis
+## About me
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* Currently learning web development, and Flutter.
+* .NET apprentice
+* Love old technologies, and retro-engineering.
 
 See real examples:
 

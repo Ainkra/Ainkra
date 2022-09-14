@@ -1,4 +1,4 @@
-# MORNZTAR ❄️
+# PAAZ ❄️
 
 ## About me ✏️
 

@@ -9,8 +9,8 @@
 ## Skills 🖥️
 
 * HTML, CSS, BOOTSTRAP, TAILWIND
-* Javascript, C# (a bit)
-* Security, SysAdmin, Debian
+* Javascript, Dart, C#
+* SysAdmin
 
 ## CONTACT ME
 

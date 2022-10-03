@@ -3,8 +3,8 @@
 ## About me ✏️
 
 * Currently learning web development, and Flutter. 🦋
-* .NET apprentice. 🍃
-* Love old technologies, and retro-engineering. ⚙️
+* .NET dev apprentice. 🍃
+* Love old technologies and everything about IT. ⚙️
 
 ## Skills 🖥️
 

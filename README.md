@@ -1,4 +1,4 @@
-# Paaz_ ❄️
+# Ainkra❄️
 
 ## About me ✏️
 

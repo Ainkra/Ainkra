@@ -9,7 +9,7 @@
 ## Skills 🖥️
 
 * HTML, CSS, BOOTSTRAP, TAILWIND
-* Javascript, Dart, C#
+* Javascript, PHP, C#
 * SysAdmin
 
 ## CONTACT ME

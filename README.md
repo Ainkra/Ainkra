@@ -2,8 +2,8 @@
 
 ## About me ✏️
 
-* Currently learning web development, and Flutter. 🦋
-* .NET dev apprentice. 🍃
+* Currently learning web development, and .NET. 🦋
+* I'm also .NET dev apprentice. 🍃
 * Love old technologies and everything about IT. ⚙️
 
 ## Skills 🖥️

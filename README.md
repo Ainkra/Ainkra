@@ -2,7 +2,7 @@
 
 ## About me ✏️
 
-* Currently learning web development, and .NET. 🦋
+* Currently learning web development. 🦋
 * I'm also .NET dev apprentice. 🍃
 * Love old technologies and everything about IT. ⚙️
 

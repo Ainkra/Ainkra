@@ -1,5 +1,3 @@
-<img src="assets/NSS-128x128.png" align="right" />
-
 # About Ainkra ✨
 
 Hello there 👋 welcome to my GitHub profile!
@@ -31,11 +29,10 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" **alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" **alt="PHP" title="PHP" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=512&id=78295&format=png" **alt="Symfony" title="Symfony" width="40" height="40"/>
-<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="40" height="40"/>
+<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="50" height="40"/>
 </p>
 
 ---

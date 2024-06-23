@@ -1,37 +1,68 @@
-# About me ✏️
+<img src="assets/NSS-128x128.png" align="right" />
 
-* Currently junior backend developer. 🦋
-* Learn too many technologies at school. You know where i'm specialised in future. 🍃
-* Love old technologies and everything about computer science. ⚙️
+# About Ainkra ✨
 
+Hello there 👋 welcome to my GitHub profile!
 
-# Skills 🖥️
-<div>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="PHP"/></code>
-	<code><img width="50" src="https://img.icons8.com/?size=512&id=78295&format=png" alt="Symfony" title="Symfony"/></code>
-	<code><img width="50" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" alt="graphQL" title="graphQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
-</div>
+I'm a Software Developer from France.
 
+I've been using a computer since I was a kid, playing video games that marked my childhood, such as Rayman, Dofus, World of Tanks, etc. However, I really started getting into computers in 2018. While playing Minecraft on a small French server, I said to myself, "What if I started creating content with code too?"
 
-# Actually learning ✍️
-<div >
-	- So much things ! I love developing for that !
-</div>
+So I started coding in the Java language to make silly plugins for Minecraft. Over time, I ended up making my own server. It worked pretty well! But I wanted to discover new things. So, at the end of 2021, putting an end to my career in mechanics and other manual trades, I started training as a web developer to take my first step into the industry. Two years passed, during which I learned PHP, Javascript, ReactJS, Symfony, etc. I passed my diploma and graduated with a focus on backend development. I have serious shortcomings on the frontend (even today).
 
+These days, I'm working in a small company on a remote reality car racing game. The experience is worthwhile, and I've learned a lot.
 
-# Professional situation 💼
-* Actually working as backend developer (work-study) on a remote reality game. 👨‍🎓
+My plan for the future is to go freelance. I have a strong desire for freedom, and being able to earn my own living is my greatest wish.
 
-## Terms 📜
-*  Do not use my code for malicious activities or to cheat.
-*  Give me a advice, let's not waste our time for bad words.
+Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/) for more information!
+
+---
+
+## 🛠️ &nbsp;Languages and Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" **alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" **alt="PHP" title="PHP" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=512&id=78295&format=png" **alt="Symfony" title="Symfony" width="40" height="40"/>
+<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="40" height="40"/>
+</p>
+
+---
+
+## 🔥 &nbsp;Statistics
+
+[![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 &nbsp;Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ainkra&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+**Ainkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

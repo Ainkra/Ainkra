@@ -1,4 +1,5 @@
 ![githubmainbanner](https://github.com/user-attachments/assets/6ab5cc1b-c1ed-4a2f-9526-c833108ae398)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
 
 # About me ✨
 
@@ -14,35 +15,53 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 
 ---
 
-## 🛠️ &nbsp;Languages and Tools
+## 🛠️ &nbsp;Technology stacks
+### 🖌️ Languages, Runtimes
+<p>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" title="TypeScript" alt="TypeScript"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" title="NodeJS" alt="NodeJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" **alt="PHP" title="PHP"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" title="CSharp" alt="CSharp"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg" **alt="GraphQL" title="GraphQL"/>
+<!-- <img src="" title="" alt=""/>&nbsp; -->
+</p>
 
+### 🎨 Frameworks
 <p>
-<h1>Languages & Frameworks</h1>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" **alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" **alt="PHP" title="PHP" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=512&id=78295&format=png" **alt="Symfony" title="Symfony" width="40" height="40"/>
-<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="50" height="40"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg" title="Symfony" alt="Symfony"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg" title="Laravel" alt="Laravel"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" title="NestJS" alt="NestJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" title="ReactJS" alt="ReactJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" title="ReactNative" alt="ReactNative"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" **alt="TailwindCSS" title="TailwindCSS"/>
+<!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
-<br>
-<h1>Software</h1>
+
+### 🖼️ &nbsp; Other
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro1.svg" title="Manjaro" alt="Manjaro"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" title="Debian" alt="Debian"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" title="Docker" alt="Docker"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" title="Archlinux" alt="Archlinux"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" title="Android" alt="Android"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" title="Git" alt="Git"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" title="Figma" alt="Figma"/>&nbsp;
+<!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
----
+
+### ✍️ &nbsp; Actually learning..
+<p>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg" title="ElectronJS" alt="ElectronJS"/>&nbsp;
+<!-- <img src="" title="" alt=""/>&nbsp; -->
+</p>
 
 ## 🔥 &nbsp;Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🏆 &nbsp;Awards
 

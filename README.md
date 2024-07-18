@@ -58,27 +58,8 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 
 ---
 
-## 🔥 &nbsp;Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🏆 &nbsp;Awards
-
+## 🔥 &nbsp;Miscellaneous (but fun!)
+### &nbsp;📈 Statistics
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)[![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 &nbsp;Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ainkra&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**Ainkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

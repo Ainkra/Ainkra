@@ -1,8 +1,6 @@
 ![githubmainbanner](https://github.com/user-attachments/assets/6ab5cc1b-c1ed-4a2f-9526-c833108ae398)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
 
-# About me ✨
-
 I'm a Software Developer from France.
 
 I've loved computers since childhood, playing games like Rayman, Dofus, and World of Tanks. My real journey into coding began in 2018 while playing Minecraft. I started with Java, creating plugins and eventually running my own server.

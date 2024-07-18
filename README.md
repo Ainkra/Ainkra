@@ -1,7 +1,5 @@
 # About Ainkra ✨
 
-Hello there 👋 welcome to my GitHub profile!
-
 I'm a Software Developer from France.
 
 I've been using a computer since I was a kid, playing video games that marked my childhood, such as Rayman, Dofus, World of Tanks, etc. However, I really started getting into computers in 2018. While playing Minecraft on a small French server, I said to myself, "What if I started creating content with code too?"

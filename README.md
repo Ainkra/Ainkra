@@ -56,9 +56,13 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
+---
+
 ## 🔥 &nbsp;Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🏆 &nbsp;Awards
 

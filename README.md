@@ -18,7 +18,7 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 
 ## 🛠️ &nbsp;Languages and Tools
 
-### 🔑 &nbsp;Languages
+### 🔑 &nbsp;Stacks
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;

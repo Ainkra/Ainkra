@@ -17,10 +17,10 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 ## 🛠️ &nbsp;Languages and Tools
 
 <p>
+<h1>Languages & Frameworks</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -31,7 +31,11 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 <img src="https://img.icons8.com/?size=512&id=78295&format=png" **alt="Symfony" title="Symfony" width="40" height="40"/>
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="50" height="40"/>
 </p>
-
+<br>
+<h1>Software</h1>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+</p>
 ---
 
 ## 🔥 &nbsp;Statistics

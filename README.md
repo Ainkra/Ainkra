@@ -1,16 +1,14 @@
 ![githubmainbanner](https://github.com/user-attachments/assets/6ab5cc1b-c1ed-4a2f-9526-c833108ae398)
 
-# About Ainkra ✨
+# About me ✨
 
 I'm a Software Developer from France.
 
-I've been using a computer since I was a kid, playing video games that marked my childhood, such as Rayman, Dofus, World of Tanks, etc. However, I really started getting into computers in 2018. While playing Minecraft on a small French server, I said to myself, "What if I started creating content with code too?"
+I've loved computers since childhood, playing games like Rayman, Dofus, and World of Tanks. My real journey into coding began in 2018 while playing Minecraft. I started with Java, creating plugins and eventually running my own server.
 
-So I started coding in the Java language to make silly plugins for Minecraft. Over time, I ended up making my own server. It worked pretty well! But I wanted to discover new things. So, at the end of 2021, putting an end to my career in mechanics and other manual trades, I started training as a web developer to take my first step into the industry. Two years passed, during which I learned PHP, Javascript, ReactJS, Symfony, etc. I passed my diploma and graduated with a focus on backend development. I have serious shortcomings on the frontend (even today).
+In late 2021, I transitioned from a career in mechanics to web development, learning PHP, Javascript, ReactJS, and Symfony. I earned my diploma with a focus on backend development, though I still have room to grow on the frontend.
 
-These days, I'm working in a small company on a remote reality car racing game. The experience is worthwhile, and I've learned a lot.
-
-My plan for the future is to go freelance. I have a strong desire for freedom, and being able to earn my own living is my greatest wish.
+Currently, I work for a small company on a remote reality car racing game, gaining valuable experience. My future goal is to become a freelancer, seeking the freedom to earn my living independently.
 
 Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/) for more information!
 

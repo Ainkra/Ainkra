@@ -33,6 +33,8 @@ Want talks? Head over [to my linkedln](https://www.linkedin.com/in/lo%C3%AFs-d-a
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/GraphQL-Java.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" **alt="GraphQL" title="GraphQL" width="50" height="40"/>
 </p>
 
+---
+
 ### 🔑 &nbsp;Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;

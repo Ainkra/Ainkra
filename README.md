@@ -1,7 +1,7 @@
 ![githubmainbanner](https://github.com/user-attachments/assets/6ab5cc1b-c1ed-4a2f-9526-c833108ae398)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
 
-## 🌟 &nbsp;About me
+# 🌟 &nbsp;About me
 I'm a Software Developer from France.
 
 I've loved computers since childhood, playing games like Rayman, Dofus, and World of Tanks. My real journey into coding began in 2018 while playing Minecraft. I started with Java, creating plugins and eventually running my own server.
@@ -12,8 +12,8 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 
 ---
 
-## 🛠️ &nbsp;Technology stacks
-### 🖌️ Languages, Runtimes
+# 🛠️ &nbsp;Technology stacks
+## 🖌️ Languages, Runtimes
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
@@ -25,7 +25,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
-### 🎨 Frameworks
+## 🎨 Frameworks
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg" title="Symfony" alt="Symfony"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg" title="Laravel" alt="Laravel"/>&nbsp;
@@ -36,7 +36,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
-### 🖼️ &nbsp; Other
+## 🖼️ &nbsp; Other
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro1.svg" title="Manjaro" alt="Manjaro"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" title="Debian" alt="Debian"/>&nbsp;
@@ -49,7 +49,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
-### ✍️ &nbsp; Actually learning..
+## ✍️ &nbsp; Actually learning..
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg" title="ElectronJS" alt="ElectronJS"/>&nbsp;
@@ -58,8 +58,8 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 
 ---
 
-## 🔥 &nbsp;Miscellaneous (but fun!)
-### &nbsp;📈 Statistics
+# 🔥 &nbsp;Miscellaneous (but fun!)
+## &nbsp;📈 Statistics
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)[![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-### 🏆 &nbsp;Trophies
+## 🏆 &nbsp;Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ainkra&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)

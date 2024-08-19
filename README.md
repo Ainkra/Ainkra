@@ -1,5 +1,5 @@
 ![githubmainbanner](https://github.com/user-attachments/assets/6ab5cc1b-c1ed-4a2f-9526-c833108ae398)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-d-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
 
 ![banner-about](https://github.com/user-attachments/assets/ce9dbd5c-6162-4af4-abd2-311c1d62f8d9)
 I'm a App Developer & Designer from France.

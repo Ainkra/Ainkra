@@ -61,7 +61,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 ---
 
 ![banner-stats](https://github.com/user-attachments/assets/7eb4c60f-4689-44c4-8a99-0ad2bf88346f)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainkra&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)[![Ainkra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainkra&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loisdps&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)[![Loyfael's GitHub stats](https://github-readme-stats.vercel.app/api?username=loisdps&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![banner-trophies](https://github.com/user-attachments/assets/3f4eb1eb-4eb3-48a7-b05a-6451607b7474)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ainkra&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=loisdps&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)

@@ -14,6 +14,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 ![banner-lang-run](https://github.com/user-attachments/assets/0a020f21-c88d-4f98-83dd-46bda6f8a0c0)
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" **alt="Kotlin" title="Kotlin"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" title="NodeJS" alt="NodeJS"/>&nbsp;
@@ -31,6 +32,8 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" title="NestJS" alt="NestJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" title="ReactJS" alt="ReactJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" title="ReactNative" alt="ReactNative"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" title="VueJS" alt="VueJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" **alt="Prisma" title="Prisma"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" **alt="TailwindCSS" title="TailwindCSS"/>
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
@@ -43,7 +46,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" title="Docker" alt="Docker"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" title="Archlinux" alt="Archlinux"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" title="Android" alt="Android"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" title="Git" alt="Git"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>

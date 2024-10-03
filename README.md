@@ -21,6 +21,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" **alt="PHP" title="PHP"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" title="CSharp" alt="CSharp"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg" **alt="GraphQL" title="GraphQL"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
@@ -35,6 +36,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" title="VueJS" alt="VueJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" **alt="Prisma" title="Prisma"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" **alt="TailwindCSS" title="TailwindCSS"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg" title="ElectronJS" alt="ElectronJS"/>&nbsp;
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
@@ -55,8 +57,8 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 
 ![banner-learn](https://github.com/user-attachments/assets/543d56fd-0c41-497d-8592-54f1cff68e43)
 <p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg" title="ElectronJS" alt="ElectronJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" title="Figma" alt="Figma"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>

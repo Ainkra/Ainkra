@@ -46,7 +46,7 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" title="Docker" alt="Docker"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" title="Archlinux" alt="Archlinux"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" title="Android" alt="Android"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" title="Git" alt="Git"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>
